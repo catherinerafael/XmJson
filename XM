@@ -1,31 +1,31 @@
 [
     {
-        "model": "Redm",
+        "model": "Redmi Note 13R / 13 5G / POCO M6 Plus 5G",
         "codename": "Breeze",
         "namafile": "https://www.dropbox.com/scl/fi/eeamacn17a418doir7qqf/breeze.melf?rlkey=mfl5mf33tstao2rx4au38633f&st=sqn5bt61&dl=1"
     },
     {
-        "model": "Redmi",
+        "model": "Redmi Pad Pro",
         "codename": "Dizi",
         "namafile": "https://www.dropbox.com/scl/fi/9mqi2fawvucd0trak95ma/dizi.melf?rlkey=5hfm659snt8ysg1ybcvc7f3tm&st=eaeiag57&dl=1"
     },
     {
-        "model": "Mi",
+        "model": "Mix Fold 4",
         "codename": "Goku",
         "namafile": "https://www.dropbox.com/scl/fi/zy3eqsaf6qhd570mraz3k/goku.melf?rlkey=4czx2hhz9m68964908azqjc6v&st=i69lddeb&dl=1"
     },
     {
-        "model": "454",
+        "model": "Redmi Turbo 3",
         "codename": "Peridot",
         "namafile": "https://www.dropbox.com/scl/fi/2vn9h549m47vkek4vf1ep/peridot.melf?rlkey=ly2xigv16diko12crg1ab6i1z&st=o542bpj9&dl=1"
     },
     {
-        "model": "4748",
+        "model": "Redmi Pad Pro 5G",
         "codename": "Ruan",
         "namafile": "https://www.dropbox.com/scl/fi/4cgxkll5iy030aossuhd7/ruan.melf?rlkey=3b9u76rx1hu1jnznlzwjv98yd&st=8nowcjzw&dl=1"
     },
     {
-        "model": "8777",
+        "model": "Xiaomi MIX Flip",
         "codename": "Ruyi",
         "namafile": "https://www.dropbox.com/scl/fi/u0nqeahfiipfzlwtr2sod/ruyi.melf?rlkey=6ox07fwwktm4xlds5be0agjnf&st=oqynw38f&dl=1"
     }
