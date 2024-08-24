@@ -1,0 +1,17 @@
+[
+    {
+        "model": "ModelX",
+        "codename": "X123",
+        "namafile": "fileX.zip"
+    },
+    {
+        "model": "ModelY",
+        "codename": "Y456",
+        "namafile": "fileY.zip"
+    },
+    {
+        "model": "ModelZ",
+        "codename": "Z789",
+        "namafile": "fileZ.zip"
+    }
+]
